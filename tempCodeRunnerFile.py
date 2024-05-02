@@ -1,0 +1,1 @@
+fetched_tweets = scrapper.get_tweets(query,mode='user', number=count)
